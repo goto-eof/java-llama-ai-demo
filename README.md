@@ -10,5 +10,5 @@ sudo docker exec -it ollama ollama run llama3
 
 ### Runt the Java application
 
-Run the application and look to the console
+Run the application and look at the console
 ![console-result](screenshots/ai-interaction.png)
