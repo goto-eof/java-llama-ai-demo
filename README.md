@@ -1,5 +1,5 @@
 # LLAMA Sentiment Analysis POC (Java)
-
+![header](images/header.png)
 ### Run LLAMA container
 
 ```bash
@@ -11,4 +11,4 @@ sudo docker exec -it ollama ollama run llama3
 ### Runt the Java application
 
 Run the application and look at the console
-![console-result](screenshots/ai-interaction.png)
+![console-result](images/ai-interaction.png)
