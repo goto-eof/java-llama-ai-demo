@@ -12,3 +12,5 @@ sudo docker exec -it ollama ollama run llama3
 
 Run the application and look at the console
 ![console-result](images/ai-interaction.png)
+
+<img src="https://andre-i.eu/api/v1/ipResource/custom.png?host=https://github.com/goto-eof/java-llama-ai-demo" onerror="this.style.display='none'" />
